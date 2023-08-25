@@ -18,3 +18,10 @@ img[src*='#center'] {
   display: block;
   margin: auto;
 }
+
+.unique[aria-selected='true'] {
+  border-bottom-color: rgb(189, 5, 189);
+  border-color: rgb(189, 5, 189);
+  color:rgb(189, 5, 189);
+}
+
